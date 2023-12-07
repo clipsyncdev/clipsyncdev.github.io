@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "": {
+      "updates": [
+        {
+          "version": "0.1",
+          "update_link": "clipsyncdev.github.io/clipsync-firefox-0.1.xpi"
+        }
+      ]
+    }
+  }
+}
